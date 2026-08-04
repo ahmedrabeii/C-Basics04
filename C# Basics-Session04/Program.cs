@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Drawing;
+using System.Text;
 
 namespace C__Basics_Session04
 {
@@ -87,6 +88,14 @@ namespace C__Basics_Session04
 
             //year = 2023;
             //Console.WriteLine(year.Value);
+
+            #endregion
+
+
+            #region Question 13
+
+           //string? reviewer = null;
+           // Console.WriteLine(reviewer==null);
 
             #endregion
 

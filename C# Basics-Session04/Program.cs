@@ -1,4 +1,6 @@
-﻿namespace C__Basics_Session04
+﻿using System.Text;
+
+namespace C__Basics_Session04
 {
     internal class Program
     {
@@ -22,6 +24,14 @@
             //string s1 = "clean Code";
             //string s2 = "clean Code";
             //Console.WriteLine(ReferenceEquals(s1, s2));
+            #endregion
+
+
+            #region Question 3
+            //StringBuilder sb = new StringBuilder("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb);
+
             #endregion
 
 

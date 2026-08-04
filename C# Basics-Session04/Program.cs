@@ -55,6 +55,15 @@ namespace C__Basics_Session04
             #endregion
 
 
+            #region Question 6
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string result = $"Book: { title} , Pages: { pages} ";
+            //Console.WriteLine(result);
+            #endregion
+
+
 
             #endregion
         }

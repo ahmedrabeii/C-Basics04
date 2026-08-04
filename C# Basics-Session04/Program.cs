@@ -17,6 +17,14 @@
             #endregion
 
 
+            #region Question 2
+
+            //string s1 = "clean Code";
+            //string s2 = "clean Code";
+            //Console.WriteLine(ReferenceEquals(s1, s2));
+            #endregion
+
+
 
             #endregion
         }

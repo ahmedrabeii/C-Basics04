@@ -76,6 +76,21 @@ namespace C__Basics_Session04
 
 
             #endregion
+
+
+            #region assignment Session 02 Question Null
+
+            #region Question 12
+
+            //int? year = null;
+            //Console.WriteLine(year.HasValue);
+
+            //year = 2023;
+            //Console.WriteLine(year.Value);
+
+            #endregion
+
+            #endregion
         }
     }
 }

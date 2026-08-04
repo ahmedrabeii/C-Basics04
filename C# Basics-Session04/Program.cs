@@ -5,6 +5,13 @@ namespace C__Basics_Session04
 {
     internal class Program
     {
+        #region Question 14
+    //class Book
+        //{
+        //    public string? Title { get; set; }
+        //}
+        #endregion
+      
         static void Main(string[] args)
         {
             #region assignment 03 Question String 
@@ -94,8 +101,17 @@ namespace C__Basics_Session04
 
             #region Question 13
 
-           //string? reviewer = null;
-           // Console.WriteLine(reviewer==null);
+            //string? reviewer = null;
+            // Console.WriteLine(reviewer==null);
+
+            #endregion
+
+
+            #region Question 14
+
+            //Book? book = null;
+
+            //Console.WriteLine(book?.Title);
 
             #endregion
 

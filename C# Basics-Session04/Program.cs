@@ -120,9 +120,20 @@ namespace C__Basics_Session04
 
             //string? title = null;
             //Console.WriteLine(title ?? "Untitled");
-            
+
             //title ??= "Untitled";
             //Console.WriteLine(title);
+
+            #endregion
+
+
+            #region Question 16
+
+            //string? name = "Ahmed";
+
+            //string confirmedName = name!;
+
+            //Console.WriteLine(confirmedName);
 
             #endregion
 

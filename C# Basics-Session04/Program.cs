@@ -35,6 +35,19 @@ namespace C__Basics_Session04
             #endregion
 
 
+            #region Question 4
+
+            //StringBuilder sb = new StringBuilder("Book List");
+
+            //sb.Replace("Book List", "Library");
+
+            //Console.WriteLine(sb);
+            #endregion
+
+
+
+
+
 
             #endregion
         }
